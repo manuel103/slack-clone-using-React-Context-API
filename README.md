@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### demo: https://slack-clone-374bd.web.app/
 
 ## Available Scripts
 
